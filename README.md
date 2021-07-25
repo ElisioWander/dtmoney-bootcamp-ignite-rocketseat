@@ -50,7 +50,7 @@ localhost:3000
 
 ---
 ## 📝 Licença
-Copyright © 2020 [@ElisioWander]()
+Copyright © 2020 [@ElisioWander](https://github.com/ElisioWander/dtmoney-bootcamp-ignite-rocketseat/blob/main/LICENSE)
 
 Este projeto está sobe a [LICENÇA MIT](https://opensource.org/licenses/MIT)
 
